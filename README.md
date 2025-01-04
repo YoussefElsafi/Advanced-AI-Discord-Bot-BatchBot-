@@ -158,6 +158,12 @@ We highly recommend using Replit for the initial coding, testing, and experiment
 * A Discord Bot account ([Discord Applications](https://discord.com/developers/applications))
 * A **Google Gemini API Key** ([Gemini API Key](https://aistudio.google.com/app/apikey))
 * A **Hugging Face API Key** ([Hugging Face API Key](https://huggingface.co/settings/tokens))
+### ‼️IMPORTANT‼️
+
+MAKE SURE THAT YOUR **HUGGING FACE API KEY** HAS THESE PERMISSIONS:
+    
+![image](https://github.com/user-attachments/assets/118f9891-ad00-4cd6-ab37-fe60d05e59e5)
+
 
 ### 🛠️ **Installation**
 
