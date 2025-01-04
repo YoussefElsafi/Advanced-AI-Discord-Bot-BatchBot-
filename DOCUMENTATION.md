@@ -12,6 +12,11 @@ This document provides a comprehensive overview of Batchbot, a Discord bot power
    - **Discord Bot Token:** Create a Discord application and bot on the Discord Developer Portal and obtain the bot token.
    - **Google Gemini API Key:** Acquire an API key for Google Gemini.
    - **Hugging Face API Key (Optional):** Obtain an API key from Hugging Face to enable image generation features.
+   ### ‼️IMPORTANT‼️
+   
+   MAKE SURE THAT YOUR **HUGGING FACE API KEY** HAS THESE PERMISSIONS:
+       
+   ![image](https://github.com/user-attachments/assets/118f9891-ad00-4cd6-ab37-fe60d05e59e5)
 
 3. **Configure `config.py`:**
    - Replace `YOUR_DISCORD_BOT_TOKEN`, `YOUR_GEMINI_API_KEY`, and `YOUR_HUGGING_FACE_API_KEY` with your obtained API keys.
